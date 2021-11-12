@@ -1,4 +1,9 @@
-# STM-FILE-SHARE-BOT-V3
+<p align="center">
+  <img src="https://telegra.ph/file/b36bb47beb901eb40bece.jpg" alt="STM.png">
+</p>
+<h1 align="center">
+  <b>STM-FILE-SHARE-BOT-V3</b>
+</h1>
 
 
 <p align="center">
