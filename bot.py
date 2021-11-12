@@ -1,5 +1,5 @@
-#(©)Codexbotz
-#(©)Cold_Onez
+#(©)Judson-web
+#(©)Judson-web
 
 import pyromod.listen
 from pyrogram import Client
